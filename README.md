@@ -11,3 +11,4 @@ R-studio v3.4.1
 ```
 
 ## Data
+Movie information for the period January 2015 through November 2016
